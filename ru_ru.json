@@ -1,9 +1,9 @@
 {
     "itemGroup.futurepack.deco":                            "Материалы будущей упаковки",
-    "itemGroup.futurepack.machines":                        "Оборудование для будущей упаковки",
-    "itemGroup.futurepack.items":                           "Товары будущего пакета",
+    "itemGroup.futurepack.machines":                        "Механизмы Futurepack",
+    "itemGroup.futurepack.items":                           "Предметы Futurepack",
     "itemGroup.futurepack.resources":                       "TODO: itemGroup.futurepack.resources",
-    "itemGroup.futurepack.tools":                           "TODO: itemGroup.futurepack.tools",
+    "itemGroup.futurepack.tools":                           "Инструменты Futurepack",
 
     "block.futurepack.color_iron_white":                    "Белый цветной металл",
     "block.futurepack.color_iron_orange":                   "Оранжевый цветной металл",
@@ -242,15 +242,15 @@
     "block.futurepack.block_tin":                           "Оловянный блок",
     "block.futurepack.block_zinc":                          "Цинковый блок",
     "block.futurepack.block_copper":                        "Медный блок",
-    "block.futurepack.block_crystal_neon":                  "TODO: block.futurepack.block_crystal_neon",
-    "block.futurepack.block_crystal_retium":                "Ретиумовый кристальный блок",
-    "block.futurepack.block_crystal_glowtite":              "Кристаллический блок Главтита",
-    "block.futurepack.block_crystal_bioterium":             "Биотериумовый кристальный блок",
-    "block.futurepack.block_crystal_alutin":                "Алитуновый кристальный блок",
-    "block.futurepack.block_compressed_neon":               "Неоновый блок",
-    "block.futurepack.block_compressed_retium":             "Ретейный блок",
-    "block.futurepack.block_compressed_glowtite":           "Блок Glowtite",
-    "block.futurepack.block_compressed_bioterium":          "Блок Bioterium",
+    "block.futurepack.block_crystal_neon":                  "Блок неонового кристалла",
+    "block.futurepack.block_crystal_retium":                "Блок ретиумового кристалла",
+    "block.futurepack.block_crystal_glowtite":              "Блок светотитового кристалла",
+    "block.futurepack.block_crystal_bioterium":             "Блок биотериумного кристалла",
+    "block.futurepack.block_crystal_alutin":                "Блок алутинного кристалла",
+    "block.futurepack.block_compressed_neon":               "Блок неона",
+    "block.futurepack.block_compressed_retium":             "Блок ретиума",
+    "block.futurepack.block_compressed_glowtite":           "Блок светотита",
+    "block.futurepack.block_compressed_bioterium":          "Блок биотериума",
     "block.futurepack.block_compressed_quantanium":         "Блок Квантаниума",
     "block.futurepack.block_compressed_wakurium":           "Блок валькириума",
     "block.futurepack.block_compressed_aluminium":          "Алюминиевый блок",
@@ -277,12 +277,12 @@
     "block.futurepack.deco_armee":                          "TODO: block.futurepack.deco_armee",
     "block.futurepack.deco_forscher":                       "TODO: block.futurepack.deco_forscher",
     "block.futurepack.deco_industrial":                     "TODO: block.futurepack.deco_industrial",
-    "block.futurepack.quartz_glass":                        "TODO: block.futurepack.quartz_glass",
+    "block.futurepack.quartz_glass":                        "Кварцевое стекло",
 
     "block.futurepack.neon_brick":                          "Неоновые кирпичи",
-    "block.futurepack.retium_brick":                        "Ретимно-кирпич",
-    "block.futurepack.glowtite_brick":                      "Главтитовый корпич",
-    "block.futurepack.bioterium_brick":                     "Bioterium Brick",
+    "block.futurepack.retium_brick":                        "Ретимно-кирпичи",
+    "block.futurepack.glowtite_brick":                      "Главтитовые кирпичи",
+    "block.futurepack.bioterium_brick":                     "Биотериумные кирпичи",
     "block.futurepack.quantanium_brick":                    "TODO: block.futurepack.quantanium_brick",
     "block.futurepack.wakurium_brick":                      "TODO: block.futurepack.wakurium_brick",
 
@@ -369,7 +369,7 @@
     "block.futurepack.sand_glowtite":                       "Песок Главтита",
     "block.futurepack.sand_bioterium":                      "Песок с биотерием",
 
-    "block.futurepack.fireflies":                           "TODO: block.futurepack.fireflies",
+    "block.futurepack.fireflies":                           "Светлячки",
     "block.futurepack.crawler_hive":                        "TODO: block.futurepack.crawler_hive",
 
     "block.futurepack.prismide_stone":                      "TODO: block.futurepack.prismide_stone",
@@ -417,9 +417,9 @@
     "block.futurepack.zentrifuge_gray":                     "Центрифуга",
     "block.futurepack.zentrifuge_black":                    "Центрифуга",
 
-    "block.futurepack.recycler_white":                      "Ресайклер",
-    "block.futurepack.recycler_gray":                       "Ресайклер",
-    "block.futurepack.recycler_black":                      "Ресайклер",
+    "block.futurepack.recycler_white":                      "Перерабатыватель",
+    "block.futurepack.recycler_gray":                       "Перерабатыватель",
+    "block.futurepack.recycler_black":                      "Перерабатыватель",
 
     "block.futurepack.opti_assembler_white":                "TODO: block.futurepack.opti_assembler_white",
     "block.futurepack.opti_assembler_gray":                 "TODO: block.futurepack.opti_assembler_gray",
@@ -442,7 +442,7 @@
     "block.futurepack.water_turbine_gray":                  "Водяная турбина",
     "block.futurepack.water_turbine_black":                 "Водяная турбина",
 
-    "block.futurepack.techtable":                           "Верстак",
+    "block.futurepack.techtable":                           "Техно-Верстак",
 
     "block.futurepack.scanner_block_white":                 "Сканер",
     "block.futurepack.scanner_block_gray":                  "Сканер",
@@ -551,8 +551,8 @@
     "block.futurepack.airlock_door":                        "Шлюз",
     "block.futurepack.dungeon_core":                        "Ядро Подземелья",
 
-    "block.futurepack.fp_lever":                            "TODO: block.futurepack.fp_lever",
-    "block.futurepack.button":                              "TODO: block.futurepack.button",
+    "block.futurepack.fp_lever":                            "Рычаг",
+    "block.futurepack.button":                              "Кнопка",
 
     "block.futurepack.rf2ne_converter_white":               "Трансформатор Потока",
     "block.futurepack.rf2ne_converter_gray":                "Трансформатор Потока",
